@@ -15,7 +15,8 @@ This project demonstrates how to configure VPC Peering between two AWS VPCs with
 
 ## Architecture
 
-(Add architecture image here)
+<img width="1161" height="1355" alt="architecture png" src="https://github.com/user-attachments/assets/58db8f7b-3c6e-4fc8-b52a-a53b58da1965" />
+
 
 ## Project Steps
 
